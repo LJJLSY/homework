@@ -167,12 +167,12 @@ func Channel02() {
 }
 
 func main() {
-	//p := 10
-	//IncrePointer(&p)
-	//nums := []int{1, 2, 3}
-	//SignPointer(&nums)
-	//Parity()
-	//Schedule()
-	//Channel01()
-	//Channel02()
+	p := 10
+	IncrePointer(&p)
+	nums := []int{1, 2, 3}
+	SignPointer(&nums)
+	Parity()
+	Schedule()
+	Channel01()
+	Channel02()
 }
